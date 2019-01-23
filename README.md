@@ -11,12 +11,14 @@ Tools used: Microsoft Visio, Microsoft SQL Server, phpMyAdmin
 
 Responsibilities:
 
-•	Identified the entities and relationships between entities and represented in an ER Diagram using MS Visio Tool.
+• Created a narrative that explains the application thoroughly including entities, relationships, primary keys, foreign keys, all other attributes, and cardinalities of relationships. 
 
-•	Created a database with all key constraints by converting entities into tables using phpMyAdmin.
+• Created an ER Diagram based on the narrative using MS Visio Tool.
+
+•	Built a database with all key constraints by converting entities into tables using phpMyAdmin. For each table, listed all attributes, the primary key, and foreign key references. Filled the tables with sample data.
 
 •	Normalized the tables up to third normal form (3NF)
 
 •	Extended App functionalities by adding “Challenge” use-case and analyzed its impacts to the current data base structure
 
-•	Ran SQL queries on the database to test all end-user testcases. 
+•	Wrote SQL queries for 8 end-user testcase scenarios and ran the queries using phpmyadmin
