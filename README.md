@@ -4,15 +4,15 @@
 Design a database to simulate the features of the app "MyFitnessPal" using phpmyadmin
 
 ### Description:
-MyFitnessPal is an online calorie counter which helps users to lose weight by tracking calorie intake and calorie burnt quickly. Project objective was to design a database to simulate the features of the app such as -\
-- creating user profile\
-- record the food intake and the corresponding calorie intake\
-- recording the exercise and corresponding calorie burnt\
-- record water consumption\
+MyFitnessPal is an online calorie counter which helps users to lose weight by tracking calorie intake and calorie burnt quickly. Project objective was to design a database to simulate the features of the app such as -
+- creating user profile
+- record the food intake and the corresponding calorie intake
+- recording the exercise and corresponding calorie burnt
+- record water consumption
 - set fitness goals etc.
 
 ### Tools used:
-Microsoft Visio, Microsoft SQL Server, phpMyAdmin\
+Microsoft Visio, Microsoft SQL Server, phpMyAdmin
 
 ### Responsibilities:
 • Created a narrative that explains the application thoroughly including entities, relationships, primary keys, foreign keys, all other attributes, and cardinalities of relationships. \
